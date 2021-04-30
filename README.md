@@ -1,7 +1,7 @@
 # Hola! soy David 
 
 Actualmente inicio en el increible mundo de la programación como Full Stack Developer, con mas de 700 horas de cursada puedo decir que vivo apasionado por la programación y que el camino hasta ahora inicia.... 
-:collision: tuve la posibilidad de crear un proyecto individual y un aplicativo para gestión hotelera. :start: 
+:collision: tuve la posibilidad de crear un proyecto individual y un aplicativo para gestión hotelera. :collision:
 
 # Habilidades 
 
