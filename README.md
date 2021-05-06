@@ -5,7 +5,7 @@ Actualmente inicio en el increible mundo de la programación como Full Stack Dev
 
 # Habilidades 
 
-- Html  :start: 
+- Html  
 - Css  
 - Javascript
 - React
